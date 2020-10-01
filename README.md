@@ -1,2 +1,3 @@
 # Face-Detection
 face detection using haarcascade classifier.....
+this repo contains python programme and haarcascade.xml file and a Example image with output image.
